@@ -1,3 +1,3 @@
 # Hello! 👋
 
-I'm __Andrew Kowalczyk__, a freelance full stack software engineer with 9+ year of experience of building performant, robust, and responsive web applications. Specializing in web development with JavaScript/TypeScript and React.
+I'm __Andrew Kowalczyk__, a seasoned full stack software engineer with over 9 years of experience building performant, robust, and responsive web applications. Specializing in web development with JavaScript/TypeScript and React.
